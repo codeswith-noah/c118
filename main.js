@@ -3,7 +3,7 @@ function preload(){
 }
 
 function setup(){
-    canvas = createCanvas(400, 400);
+    canvas = createCanvas(280, 280);
     canvas.center();
     background("white");
 }
